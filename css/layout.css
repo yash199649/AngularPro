@@ -1,22 +1,6 @@
-/*
-=====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
-=====================================================================
 
-   TOC:
-   a. General Styles
-   b. Header Styles
-   c. About Section
-   d. Resume Section
-   e. Portfolio Section
-   f. Call To Action Section
-   g. Testimonials Section
-   h. Contact Section
-   i. Footer
 
-===================================================================== */
+
 
 /* ------------------------------------------------------------------ */
 /* a. General Styles
@@ -409,54 +393,141 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: sqllite 2s ease;
     -webkit-animation: sqllite 2s ease;
 }
-@-moz-keyframes photoshop {
+@-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes java{
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes c {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes cplus {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes php {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
-
-@-webkit-keyframes photoshop {
+@-moz-keyframes django {
+  0%   { width: 0px;  }
+  100% { width: 76%;  }
+}
+@-moz-keyframes angularjs{
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 93%;  }
 }
-@-webkit-keyframes wordpress {
+@-moz-keyframes nodejs {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes ajax {
+  0%   { width: 0px;  }
+  100% { width: 87%;  }
+}
+@-moz-keyframes mysql {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-moz-keyframes mongodb {
   0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-moz-keyframes sqllite {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes python {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes c {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes cplus {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes php {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes django {
+  0%   { width: 0px;  }
+  100% { width: 78%;  }
+}
+@-webkit-keyframes angularjs{
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes html5 {
+  0%   { width: 0px;  }
+  100% { width: 93%;  }
+}
+@-webkit-keyframes nodejs {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes ajax{
+  0%   { width: 0px;  }
+  100% { width: 87%;  }
+}
+@-webkit-keyframes mysql {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-webkit-keyframes mongodb{
+  0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-webkit-keyframes sqllite{
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
 }
 
 /* ------------------------------------------------------------------ */
